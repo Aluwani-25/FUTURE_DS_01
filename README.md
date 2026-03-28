@@ -1,4 +1,4 @@
-# FUTURE_DS_01
+# FUTURE_DS_01_Online Retail 
 ## Project Overview
 This project analyzes a real-world e-commerce dataset to extract meaningful business insights. The goal is to simulate the role of a data analyst by cleaning raw transactional data, performing analysis, and presenting actionable insights that can support business decision-making. This process include several stages including data processing, data cleaning, and data visualization
 
