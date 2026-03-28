@@ -20,10 +20,10 @@ This project was completed using:
 
 ## Data Cleaning & Preparation
 Before analysis, the dataset was cleaned and prepared:
- 1.Removed missing values and duplicates
- 2.Converted data types
- 3.Standardized text fields
- 4.Created new features-Revenue feature
+ 1. Removed missing values and duplicates
+ 2. Converted data types
+ 3. Standardized text fields
+ 4. Created new features-Revenue feature
  
 ## Analysis Performed
 1.Revenue Trends Over Time
