@@ -45,16 +45,16 @@ Revenue shows seasonal trends (peaks in certain months)
 Certain countries dominate total sales, indicating key markets
 
 ## Business Recommendations
-1.Focus marketing on top-performing products
-2.Investigate underperforming products or regions
-3.Expand operations in high-revenue regions
+1. Focus marketing on top-performing products
+2. Investigate underperforming products or regions
+3. Expand operations in high-revenue regions
 
 ## Skills Demonstrated
-1.Data cleaning and preprocessing
-2.Data analysis using pandas
-3.Business KPI analysis
-4.Data visualization (Power BI)
-5.Insight generation and storytelling
+1. Data cleaning and preprocessing
+2. Data analysis using pandas
+3. Business KPI analysis
+4. Data visualization (Power BI)
+5. Insight generation and storytelling
 
 ## Dataset Source
 Online Retail Dataset (Kaggle):
