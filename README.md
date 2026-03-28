@@ -32,12 +32,12 @@ Before analysis, the dataset was cleaned and prepared:
 3.High-Value Regions
 
 ## Dashboard Features
--Revenue trend line chart
--Interactive filters (slicers) for Date, Country,Product
--Revenue and Qauntity bar graphs by Description(product)
--Revenue pie chart
--Table monthly revenue sales by Quantity
--Dashboard <a href="https://github.com/Aluwani25/FUTURE_DS_01/blob/main/Screenshot%202026-03-28%20010711.png">View Dashboard</a>
+- Revenue trend line chart
+- Interactive filters (slicers) for Date, Country,Product
+- Revenue and Qauntity bar graphs by Description(product)
+- Revenue pie chart
+- Table monthly revenue sales by Quantity
+- Dashboard <a href="https://github.com/Aluwani25/FUTURE_DS_01/blob/main/Screenshot%202026-03-28%20010711.png">View Dashboard</a>
 
 ## Key Insights
 A small number of products generate a large portion of total revenue
