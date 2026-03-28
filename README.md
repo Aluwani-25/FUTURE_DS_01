@@ -26,10 +26,10 @@ Before analysis, the dataset was cleaned and prepared:
  4. Created new features-Revenue feature
  
 ## Analysis Performed
-1.Revenue Trends Over Time
-->Analyzed monthly and yearly revenue trends
-2.Top-Selling Products
-3.High-Value Regions
+1. Revenue Trends Over Time
+- Analyzed monthly and yearly revenue trends
+2. Top-Selling Products
+3. High-Value Regions
 
 ## Dashboard Features
 - Revenue trend line chart
